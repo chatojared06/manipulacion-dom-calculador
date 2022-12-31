@@ -1,0 +1,12 @@
+let nombre = "Jared";
+let apellido = "Ozono";
+let username = "Jaredozono06";
+let edad = 16;
+let mail = "jaredmoreno@example.mio";
+let esMayorDeEdad = false;
+let ahorro = 10000;
+let deudas = 200;
+let nombreCompleto = nombre + " " + apellido;
+let informacionPersonal = "Su edad es de " + edad + ", su correo electronico es " + mail + ".";
+let dineroReal =  ahorro - deudas;
+let datosPersonales = informacionPersonal + " " + dineroReal;
